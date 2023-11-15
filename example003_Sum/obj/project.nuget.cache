@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HbHqPBtzONqVxwJL+5QJEdOko10I/pBvyewj3mnlja42Zso5+mL9G+8KlRNGNQ6R2twM7Stc/iPtb2IRo96dBg==",
+  "dgSpecHash": "BOoLJmUXTs8BzN267kP5w0URvWUUC2cNyU/c/6K0AAO8IJbMGSbz2HwhHBMwXC1umE5wgo1hnutoRqWvccQ+Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003 Sum\\example003 Sum.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003_Sum\\example003 Sum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

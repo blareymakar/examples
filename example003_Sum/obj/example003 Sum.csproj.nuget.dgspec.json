@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\git\\examples\\example003 Sum\\example003 Sum.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\git\\examples\\example003_Sum\\example003 Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\git\\examples\\example003 Sum\\example003 Sum.csproj": {
+    "C:\\Users\\Admin\\Desktop\\git\\examples\\example003_Sum\\example003 Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003 Sum\\example003 Sum.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003_Sum\\example003 Sum.csproj",
         "projectName": "example003 Sum",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003 Sum\\example003 Sum.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003_Sum\\example003 Sum.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003 Sum\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\git\\examples\\example003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
