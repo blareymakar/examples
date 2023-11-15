@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\bin\Debug\net8.0\example002_HelloUser.exe
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\bin\Debug\net8.0\example002_HelloUser.deps.json
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\bin\Debug\net8.0\example002_HelloUser.runtimeconfig.json
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\bin\Debug\net8.0\example002_HelloUser.dll
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\bin\Debug\net8.0\example002_HelloUser.pdb
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.AssemblyInfo.cs
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.sourcelink.json
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.dll
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\refint\example002_HelloUser.dll
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.pdb
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\example002_HelloUser.genruntimeconfig.cache
+C:\Users\Admin\Desktop\git\examples\example002_HelloUser\obj\Debug\net8.0\ref\example002_HelloUser.dll
