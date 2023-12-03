@@ -4,5 +4,6 @@ int num2=new Random().Next(1,10); // 1..9
 Console.WriteLine(num2);
 int sum = num1+num2;
 Console.WriteLine(sum);
+
 // 
 // 
